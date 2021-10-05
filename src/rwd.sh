@@ -1,0 +1,1 @@
+   sudo aircrack-ng -w  $l|lolcat
